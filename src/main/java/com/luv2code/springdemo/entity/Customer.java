@@ -1,4 +1,4 @@
-package com.lu2code.springdemo.entity;
+package com.luv2code.springdemo.entity;
 
 import javax.persistence.Column;
 import javax.persistence.Entity;
